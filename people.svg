@@ -1,0 +1,17 @@
+<svg width="510" height="170" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green background -->
+  <rect width="100%" height="100%" fill="#FFC1F1" />
+  
+  <!-- Centered text -->
+  <text 
+    x="255" 
+    y="95" 
+    font-family="Cera Pro" 
+    font-size="82" 
+    font-weight="bold" 
+    fill="#F873D9" 
+    text-anchor="middle" 
+    dominant-baseline="middle">
+    People
+  </text>
+</svg>
